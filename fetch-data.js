@@ -1,5 +1,5 @@
 import * as cheerio from 'cheerio';
-import { writeFile } from 'fs/promises';
+import { writeFile, mkdir } from 'fs/promises';
 import path from 'path';
 
 async function fetchAndSaveData() {
@@ -75,11 +75,14 @@ async function fetchAndSaveData() {
     });
 
     const dataToSave = { recommendations };
+    
+    const dirPath = path.resolve(process.cwd(), 'database');
+    const outputPath = path.resolve(dirPath, 'anime-recs.json');
 
-    const outputPath = path.resolve(process.cwd(), 'anime-recs.json');
+    await mkdir(dirPath, { recursive: true });
     await writeFile(outputPath, JSON.stringify(dataToSave, null, 2));
     
-    console.log(`Successfully saved ${recommendations.length} recommendations to anime-recs.json`);
+    console.log(`Successfully saved ${recommendations.length} recommendations to database/anime-recs.json`);
 
   } catch (error) {
     console.error('Error fetching or saving data:', error);
