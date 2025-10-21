@@ -1,2 +1,2 @@
 # API-JSON
-Api yang otomatis Di perbarui Setiap Jam 3 sore WIB
+Api yang otomatis Di perbarui Setiap Jam 00:00 UTC
