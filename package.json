@@ -1,0 +1,13 @@
+{
+  "name": "api-json",
+  "version": "1.0.0",
+  "description": "Auto-updating JSON from MAL",
+  "main": "fetch-data.js",
+  "type": "module",
+  "scripts": {
+    "start": "node fetch-data.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
