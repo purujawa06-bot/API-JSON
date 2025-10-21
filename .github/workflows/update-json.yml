@@ -1,12 +1,17 @@
 name: Update Anime Recommendations JSON
 
 on:
-  workflow_dispatch: # Memungkinkan Anda menjalankan workflow ini secara manual dari tab Actions di GitHub
+  workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *' # Menjalankan setiap hari jam 8 pagi UTC (sekitar jam 3 sore WIB)
+    - cron: '0 8 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   update-json:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
