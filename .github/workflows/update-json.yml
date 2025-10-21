@@ -3,10 +3,7 @@ name: Update Anime Recommendations JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'
-  push:
-    branches:
-      - main
+    - cron: '0 0 * * *'
 
 jobs:
   update-json:
@@ -32,4 +29,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: Update anime recommendations JSON'
-          file_pattern: 'anime-recs.json'
+          file_pattern: 'database/anime-recs.json'
