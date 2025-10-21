@@ -1,0 +1,30 @@
+name: Update Anime Recommendations JSON
+
+on:
+  workflow_dispatch: # Memungkinkan Anda menjalankan workflow ini secara manual dari tab Actions di GitHub
+  schedule:
+    - cron: '0 8 * * *' # Menjalankan setiap hari jam 8 pagi UTC (sekitar jam 3 sore WIB)
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run fetch script
+        run: npm start
+
+      - name: Commit and push if changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: Update anime recommendations JSON'
+          file_pattern: 'anime-recs.json'
