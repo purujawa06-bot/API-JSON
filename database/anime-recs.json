@@ -2,6 +2,142 @@
   "recommendations": [
     {
       "sourceAnime": {
+        "title": "Bleach",
+        "url": "https://myanimelist.net/anime/269/Bleach",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1541/147774.webp?s=089133b7e66f588ead25a44681f1b2ec"
+      },
+      "recommendedAnime": {
+        "title": "Black Clover",
+        "url": "https://myanimelist.net/anime/34572/Black_Clover",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/2/88336.webp?s=73a7bc3902e9183843cc22abf006485e"
+      },
+      "reason": "shounen, boy who has to get stronger to get where he needs to be, got alot of women that fawn over him.",
+      "author": {
+        "username": "PunGood020",
+        "date": "1 hour ago"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "FLCL",
+        "url": "https://myanimelist.net/anime/227/FLCL",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/7/77356.webp?s=b23ff05f1628f25c516d3cee741909e4"
+      },
+      "recommendedAnime": {
+        "title": "Dandadan",
+        "url": "https://myanimelist.net/anime/57334/Dandadan",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1584/143719.webp?s=a2bdfa1eb2753621282e68afd2738f5c"
+      },
+      "reason": "Imo, Dandadan is a superior version of FLCL (Furi Kuri), aka - how Furi Kuri actually was supposed to be. Both have great animation, are really crazy at moments and have dynamic action instances. MCs can also be viewed as somewhat similar. But Dandadan is so much more + is better in like all fields... Furi Kuri was too fast-paced and crazy to a point where the story did not make sense. Dandadan has slower tempo and reasonable story, while maintaining Furi Kuri pluses.",
+      "author": {
+        "username": "Leenbow",
+        "date": "6 hours ago"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Matantei Loki Ragnarok",
+        "url": "https://myanimelist.net/anime/335/Matantei_Loki_Ragnarok",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/13/75300.webp?s=6b04da6b464e77c80fc50ea6405518bb"
+      },
+      "recommendedAnime": {
+        "title": "Suzumiya Haruhi no Yuuutsu",
+        "url": "https://myanimelist.net/anime/849/Suzumiya_Haruhi_no_Yuuutsu",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1470/137929.webp?s=13752de21d928610f23d26ef3957fccb"
+      },
+      "reason": "In both works, transcendent divine omnipotence is merely a pretext for confusion and humor.",
+      "author": {
+        "username": "sj-c",
+        "date": "Today, 8:11 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+        "url": "https://myanimelist.net/anime/30187/Sakurako-san_no_Ashimoto_ni_wa_Shitai_ga_Umatteiru",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/7/76116.webp?s=c07ddc6f80c089dd74c3481511b10845"
+      },
+      "recommendedAnime": {
+        "title": "Kamonohashi Ron no Kindan Suiri",
+        "url": "https://myanimelist.net/anime/53879/Kamonohashi_Ron_no_Kindan_Suiri",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1799/137123.webp?s=86daf99e334ace819a0b5f2816afaea5"
+      },
+      "reason": "in both series, the main characters are cold and cool characters, they are happy when they solve murders and mysteries that others cannot solve.",
+      "author": {
+        "username": "hecerry",
+        "date": "Today, 5:12 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Yuu☆Yuu☆Hakusho",
+        "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1228/111372.webp?s=68ac2043ee9fa34e87468b799de5bff4"
+      },
+      "recommendedAnime": {
+        "title": "Hunter x Hunter (2011)",
+        "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1337/99013.webp?s=55fcf6795b2a561de57feb19b3d913db"
+      },
+      "reason": "Both series are shounen and their character designs, characters' powers and battles are very similar to each other. Yuu Yuu Hakusho is actually a bit similar to other shounen genres like Naruto and Bleach. i recommend you to watch it.",
+      "author": {
+        "username": "hecerry",
+        "date": "Today, 5:10 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Spy x Family",
+        "url": "https://myanimelist.net/anime/50265/Spy_x_Family",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1441/122795.webp?s=63181a1a5625b920638b7fc8b8e9bdb8"
+      },
+      "recommendedAnime": {
+        "title": "Buddy Daddies",
+        "url": "https://myanimelist.net/anime/53411/Buddy_Daddies",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1553/133767.webp?s=ca08c889dd8e98c1c7bfc7c828796cb4"
+      },
+      "reason": "Both series are about spies taking care of children. Both are sweet and fun series.",
+      "author": {
+        "username": "hecerry",
+        "date": "Today, 3:57 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Douluo Dalu",
+        "url": "https://myanimelist.net/anime/37150/Douluo_Dalu",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1438/101531.webp?s=12530ee04ece4f33fbbad47bd04af56d"
+      },
+      "recommendedAnime": {
+        "title": "Shen Yin Wangzuo",
+        "url": "https://myanimelist.net/anime/51335/Shen_Yin_Wangzuo",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1776/122162.webp?s=94a81f30dc56be125368ca21b6186d4f"
+      },
+      "reason": "- full cgi\n- western fantasy\n- ensemble cast",
+      "author": {
+        "username": "votox",
+        "date": "Today, 3:40 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Made in Abyss",
+        "url": "https://myanimelist.net/anime/34599/Made_in_Abyss",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/6/86733.webp?s=be26364e8c69396259b79912507f2179"
+      },
+      "recommendedAnime": {
+        "title": "NieR:Automata Ver1.1a",
+        "url": "https://myanimelist.net/anime/51105/NieR_Automata_Ver11a",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1669/150616.webp?s=0e5edd6afee3ecb1c2d86273e43f7e5f"
+      },
+      "reason": "Post apocalyptic setting, 2 of the most amazing soundtracks you'll ever hear in anime, dark tone and heavy story, worldbuilding is a major focus in both. Mature themes explored.",
+      "author": {
+        "username": "Walter_White18",
+        "date": "Yesterday, 11:40 PM"
+      }
+    },
+    {
+      "sourceAnime": {
         "title": "Mechano: Scientific Attack Force",
         "url": "https://myanimelist.net/anime/24259/Mechano__Scientific_Attack_Force",
         "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/13/62687.webp?s=4f4748e304126ec0822478d1e58bb2d3"
@@ -14,7 +150,7 @@
       "reason": "The second short of Mechano could have perfectly fit into the Compu Movie compilation. For fans of early CGI.",
       "author": {
         "username": "eblf2013",
-        "date": "2 hours ago"
+        "date": "Yesterday, 6:57 PM"
       }
     },
     {
@@ -31,7 +167,7 @@
       "reason": "They're both epilepsy-inducing surreal 1990's 3D animations with electronic music. Shinkansen is just a song though and Compu Movie is a compilation. For fans of early CGI.",
       "author": {
         "username": "eblf2013",
-        "date": "2 hours ago"
+        "date": "Yesterday, 6:57 PM"
       }
     },
     {
@@ -48,7 +184,7 @@
       "reason": "Both shows deal with characters getting isekai'd and having to gain followers to grow in power. Kamikatsu focuses more on comedy and action, while Demon Lord 2099 is more action then comedy. If you like a MC who's confident even when a challenge seems way over his head in a whole new world, I recommend!",
       "author": {
         "username": "Magicmist",
-        "date": "2 hours ago"
+        "date": "Yesterday, 6:16 PM"
       }
     },
     {
@@ -65,7 +201,7 @@
       "reason": "Both shows deal with the MC having to gain fans and followers to get powerful. While it's trust in To Be Hero X, it's streaming viewers in Demon Lord 2099.  If you liked the street fights with supernatural abilities in one show, your sure to get more of that in the other.",
       "author": {
         "username": "Magicmist",
-        "date": "2 hours ago"
+        "date": "Yesterday, 6:11 PM"
       }
     },
     {
@@ -82,7 +218,7 @@
       "reason": "Ruri Rocks gives you that same feeling of warmth when watching the characters of A Place Further Than The Universe interact with their enviroment; this alongside the visuals and soundtrack gives it that same amazing \"wow factor\"",
       "author": {
         "username": "Unaven",
-        "date": "4 hours ago"
+        "date": "Yesterday, 4:56 PM"
       }
     },
     {
@@ -99,7 +235,7 @@
       "reason": "Both shows deal with two clans fighting in some sort of all-goes-by battle royale to prevail over the other. Difference is that in Basilisk both clans are ninja, while in Ninja to Gokudou is instead a ninja vs yakuza conflict.",
       "author": {
         "username": "Illyricus",
-        "date": "7 hours ago"
+        "date": "Yesterday, 1:44 PM"
       }
     },
     {
@@ -116,7 +252,7 @@
       "reason": "-Both worlds kill the questioning mind before it can bloom. \n\n-Every character who asks questions in both shows are branded as \"dangerous\"\n\n-Both of these stories treat the truth as a revolutionary act of sorts\n\nSame war, different battleground~",
       "author": {
         "username": "Dxxthwxsh",
-        "date": "7 hours ago"
+        "date": "Yesterday, 1:33 PM"
       }
     },
     {
@@ -133,7 +269,7 @@
       "reason": "Both seek answers to the hard question of self-sacrifice and the meaning of life. Sounds cheesy, but that#s what both of them do.",
       "author": {
         "username": "inim",
-        "date": "7 hours ago"
+        "date": "Yesterday, 1:12 PM"
       }
     },
     {
@@ -150,7 +286,7 @@
       "reason": "Very similar vibe. Similar female MC, Similar slice of life romance with beautiful nothings of everyday life. Some how art style also feels very similar.\nHighly recommend watching both.",
       "author": {
         "username": "thermoquasi",
-        "date": "9 hours ago"
+        "date": "Yesterday, 11:41 AM"
       }
     },
     {
@@ -167,7 +303,7 @@
       "reason": "Idolish7 and A3 are both anime with extremely charming characters and stories that will suck you right in. Both focus on the relationships between the male characters and their backstories, each of them overcoming their past and fears, helping each other out and uniting for their dreams. Why I this these 2 are more similar compared to the other anime in the same genre is the amount of depth and drama. There are many character tropes that very much overlap with each other. If you like the characters from idolish7, you will also love the characters from a3. The female lead in both are also their manager, or director, a role that keeps them as a respectable and major character in the boys' lives, while also allowing them to have more interaction with each other.",
       "author": {
         "username": "guddi",
-        "date": "12 hours ago"
+        "date": "Yesterday, 8:53 AM"
       }
     },
     {
@@ -184,7 +320,7 @@
       "reason": "Both series involve a character with memories from Earth, ending up in a fantasy world where they are tasked with building alliances, finding allies, managing towns/nations, and leading armies in battle.",
       "author": {
         "username": "DoubleTTB22",
-        "date": "Yesterday, 8:23 PM"
+        "date": "Oct 20, 2025"
       }
     },
     {
@@ -201,7 +337,7 @@
       "reason": "- player transmigrated into new world as game character\n- player's base exists in the new world\n- sentient NPCs\n- NPCs are loyal to player\n- player is OP",
       "author": {
         "username": "Heavenly47",
-        "date": "Yesterday, 5:17 PM"
+        "date": "Oct 20, 2025"
       }
     },
     {
@@ -218,7 +354,7 @@
       "reason": "Both characters are on an adventure in countryside, meeting people as they go. Ginko travels solo but has people he goes to meet on his journey. Freiren lives a painfully long life as an elf so she has stretches of time where she had friends she could travel with. Both has the same, peaceful vibe, subtle colors, soft music.",
       "author": {
         "username": "Nekoutsu",
-        "date": "Yesterday, 3:37 PM"
+        "date": "Oct 20, 2025"
       }
     },
     {
@@ -235,7 +371,7 @@
       "reason": "it is a similar plot where the main character gets a power and uses it to 'fix' the world no matter the cost sososo good!",
       "author": {
         "username": "p00yisrad",
-        "date": "Yesterday, 2:58 PM"
+        "date": "Oct 20, 2025"
       }
     },
     {
@@ -252,7 +388,7 @@
       "reason": "1. Both have similar premises of the \"Banishement\" theme. \n2. Both have MCs who are humble characters, who can think through things maturely. \n3. Both have FMCs who are strong and competent. \n4. Both have decent romances between main pairs.\n5. Both premises have the Slow-Life atmosphere going around in them.\n6. The setting for both series takes place in the countryside. \n\n\"Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita\" can sometimes feel heavy-hearted, despite the lightness of the series. Though, those conflicting scenarios do not distract the series from its initial premise and payoff remains on the positive side. \n\n\"Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life\" also has conflicts in the plot but it doesn't become serious enough to hinder the wholesomeness. \n\nAll n all, both of them are laid-back enjoyable watch, where you don't have to beat your head on the wall for some unnecessary forced drama and less annoying side characters are also a plus.",
       "author": {
         "username": "Wholesome_Seeker",
-        "date": "Yesterday, 8:59 AM"
+        "date": "Oct 20, 2025"
       }
     },
     {
@@ -269,7 +405,7 @@
       "reason": "[Comparison is as of Ep3 of A Gatherer's Adventure in Isekai, may be subjected to future amendments when the show ends]\n\nBoth shows feature a relaxing and lighthearted vibe with an overpowered MC journeying through an Isekai world with minimal conflicts and lots of feel good moments as they interact with the supporting cast and traveling around.\n\nThe main difference is that A Journey Through Another World focuses on the MC with a pair of children, while A Gatherer's Adventure in Isekai have an MC who is a gatherer adventuring with a Dragon familiar.",
       "author": {
         "username": "StormcasterJudd",
-        "date": "Yesterday, 2:51 AM"
+        "date": "Oct 20, 2025"
       }
     },
     {
@@ -286,7 +422,7 @@
       "reason": "If you are fan of Nichijou or City The Animation, you will love this anime. Same autor, same animation studio, same humor.",
       "author": {
         "username": "bioclone",
-        "date": "Yesterday, 1:41 AM"
+        "date": "Oct 20, 2025"
       }
     },
     {
@@ -1562,142 +1698,6 @@
       "author": {
         "username": "LeviAck25",
         "date": "Oct 11, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Kino no Tabi: The Beautiful World",
-        "url": "https://myanimelist.net/anime/486/Kino_no_Tabi__The_Beautiful_World",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1763/95397.webp?s=8f41ae8dc3141de66121a829382a0864"
-      },
-      "recommendedAnime": {
-        "title": "Majo no Tabitabi",
-        "url": "https://myanimelist.net/anime/40571/Majo_no_Tabitabi",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1802/108501.webp?s=52120ca0a85058a357a4c60350347702"
-      },
-      "reason": "This is basically Kino's Journey but with a witch. The stories are overall darker and she is much more of an observer in the stories but the nations are just like 1 city and there are sometimes multiple stories per episode.",
-      "author": {
-        "username": "jimmyvbuck",
-        "date": "Oct 11, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Ao no Exorcist",
-        "url": "https://myanimelist.net/anime/9919/Ao_no_Exorcist",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/10/75195.webp?s=252e11c5044d7ee1cc90255157e944ac"
-      },
-      "recommendedAnime": {
-        "title": "Enen no Shouboutai",
-        "url": "https://myanimelist.net/anime/38671/Enen_no_Shouboutai",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1664/103275.webp?s=3902dd26937b76fb421215e1772310f1"
-      },
-      "reason": "Main character teenage boys with the nichname 'Devil' but the most whole hearted personalities ever, with some tragic backstories and conspiracies, cute shy blondies helping to crack their shells, allies with actually well written, detalied personalities and backgrounds. Not 0 to hero type of character development. Great flashy fight scenes for both, good plot both have their predictible and unpredictible twist as well. Light joke filled narration to wrap the heavier topic underneath. Ao no Exorcist has a bit more of a slice of life and sudden disaster contrast while Enen no Shouboutai has a more action focused, tension building type of story telling.",
-      "author": {
-        "username": "hanamacs",
-        "date": "Oct 11, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Bleach",
-        "url": "https://myanimelist.net/anime/269/Bleach",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1541/147774.webp?s=089133b7e66f588ead25a44681f1b2ec"
-      },
-      "recommendedAnime": {
-        "title": "Black Clover",
-        "url": "https://myanimelist.net/anime/34572/Black_Clover",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/2/88336.webp?s=73a7bc3902e9183843cc22abf006485e"
-      },
-      "reason": "Another shounen anime with cool characters and fights like bleach with its own unique qualities/",
-      "author": {
-        "username": "Twilight84",
-        "date": "Oct 11, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Akagami no Shirayuki-hime",
-        "url": "https://myanimelist.net/anime/30123/Akagami_no_Shirayuki-hime",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/10/75764.webp?s=70fc03631c5c332e95a8eca54803ee0a"
-      },
-      "recommendedAnime": {
-        "title": "Hoshifuru Oukoku no Nina",
-        "url": "https://myanimelist.net/anime/57362/Hoshifuru_Oukoku_no_Nina",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1436/144553.webp?s=dcb1b3938e7e317ddb7d2dabdb4064a5"
-      },
-      "reason": "Both feature strong, independent female protagonists who pursue their dreams and navigate challenges in royal settings. They also emphasise themes of personal growth, friendship, and romance while showcasing the characters' resilience against societal expectations. Additionally, both series blend fantasy elements with character-driven stories that highlight the importance of self-identity.",
-      "author": {
-        "username": "chelleang",
-        "date": "Oct 10, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Watashi ga Motete Dousunda",
-        "url": "https://myanimelist.net/anime/32899/Watashi_ga_Motete_Dousunda",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/4/81953.webp?s=0430174fbca6dde779b131776b64a336"
-      },
-      "recommendedAnime": {
-        "title": "Murai no Koi",
-        "url": "https://myanimelist.net/anime/52080/Murai_no_Koi",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1260/144801.webp?s=1647cf3553339d990a4d5c79cb2541e4"
-      },
-      "reason": "Both main character has no interest in 3d guys. They're only interested in 2d video gsme/anime. Even so, they're pursed by guys who are interested in them and they do their best to avoid the situation. Lots of cute romance",
-      "author": {
-        "username": "iNinjeek",
-        "date": "Oct 10, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Chobits",
-        "url": "https://myanimelist.net/anime/59/Chobits",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/4/24648.webp?s=f067c67e54b0054b5f54df5aae499936"
-      },
-      "recommendedAnime": {
-        "title": "Kikaijikake no Marie",
-        "url": "https://myanimelist.net/anime/59484/Kikaijikake_no_Marie",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1618/151138.webp?s=09fe0361d1ba4df80c787296c43d129b"
-      },
-      "reason": "Similar main character girls who is a \"robot\" and learns how to have emotions. Very cute theme. The main character sworn to do anything to protect them.",
-      "author": {
-        "username": "iNinjeek",
-        "date": "Oct 10, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Kimi wa Meido-sama.",
-        "url": "https://myanimelist.net/anime/57611/Kimi_wa_Meido-sama",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1909/144684.webp?s=4365535b7c100a2c17b9b7cc6455b43d"
-      },
-      "recommendedAnime": {
-        "title": "Kikaijikake no Marie",
-        "url": "https://myanimelist.net/anime/59484/Kikaijikake_no_Marie",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1618/151138.webp?s=09fe0361d1ba4df80c787296c43d129b"
-      },
-      "reason": "Both animes has a killer maid who is emotionless like a robot, sworn to protect the male. They slowly learn how to become human",
-      "author": {
-        "username": "iNinjeek",
-        "date": "Oct 10, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Cool Doji Danshi",
-        "url": "https://myanimelist.net/anime/51680/Cool_Doji_Danshi",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1123/134677.webp?s=de0e3ea62325818c99f998f31d04ee71"
-      },
-      "recommendedAnime": {
-        "title": "Yano-kun no Futsuu no Hibi",
-        "url": "https://myanimelist.net/anime/60254/Yano-kun_no_Futsuu_no_Hibi",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1388/152332.webp?s=ef2222e3e9e5c7e3fcf5212ffb8f259b"
-      },
-      "reason": "Both anime series are about clumsy but cute and kind guys.",
-      "author": {
-        "username": "Musanka",
-        "date": "Oct 10, 2025"
       }
     }
   ]
