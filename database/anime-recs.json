@@ -2,6 +2,176 @@
   "recommendations": [
     {
       "sourceAnime": {
+        "title": "Shingeki no Kyojin: The Final Season",
+        "url": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1000/110531.webp?s=1a1ead5b3d810ea116228c7bbd9d53cb"
+      },
+      "recommendedAnime": {
+        "title": "Dungeon Meshi",
+        "url": "https://myanimelist.net/anime/52701/Dungeon_Meshi",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1711/142478.webp?s=4e849b8d91011533dd732ae38857300d"
+      },
+      "reason": "WATCH DUNMESHI",
+      "author": {
+        "username": "FellowComrade06",
+        "date": "10 hours ago"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Another",
+        "url": "https://myanimelist.net/anime/11111/Another",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/4/75509.webp?s=679e4e9b9709f4c2782152ba8bcac221"
+      },
+      "recommendedAnime": {
+        "title": "Tokyo Ghoul √A",
+        "url": "https://myanimelist.net/anime/27899/Tokyo_Ghoul_√A",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1889/123307.webp?s=96e7eb0f47245cd696fa90fb0e2e8f36"
+      },
+      "reason": "🔹 Not school-based, but still drenched in dread, tragedy, and body horror.\n🔹 Both series feature characters realizing they’re trapped in something beyond human control.\n🔹 Extremely popular mainstream pick — instantly recognizable on MAL.\n→ “Another explores death. Tokyo Ghoul explores what comes after.”",
+      "author": {
+        "username": "Sparsh_09",
+        "date": "Today, 6:31 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Another",
+        "url": "https://myanimelist.net/anime/11111/Another",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/4/75509.webp?s=679e4e9b9709f4c2782152ba8bcac221"
+      },
+      "recommendedAnime": {
+        "title": "Tokyo Ghoul",
+        "url": "https://myanimelist.net/anime/22319/Tokyo_Ghoul",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1498/134443.webp?s=f0cf45f2ef1925548823e8a1ac91f1df"
+      },
+      "reason": "🔹 Not school-based, but still drenched in dread, tragedy, and body horror.\n🔹 Both series feature characters realizing they’re trapped in something beyond human control.\n🔹 Extremely popular mainstream pick — instantly recognizable on MAL.\n→ “Another explores death. Tokyo Ghoul explores what comes after.”",
+      "author": {
+        "username": "Sparsh_09",
+        "date": "Today, 6:29 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Uchouten Kazoku",
+        "url": "https://myanimelist.net/anime/17909/Uchouten_Kazoku",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/3/85433.webp?s=99dfcc0f679e9af354fff7a88b80e333"
+      },
+      "recommendedAnime": {
+        "title": "Kyousou Giga (TV)",
+        "url": "https://myanimelist.net/anime/19703/Kyousou_Giga_TV",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/5/85431.webp?s=3786a6cb53e4742cd615ce5a664d1061"
+      },
+      "reason": "A vibrant, chaotic, and colorful fantasy centered around a supernatural family. It's a visually stunning and emotional story about family bonds, identity, and a fantastical world",
+      "author": {
+        "username": "Shiota",
+        "date": "Today, 2:45 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Saraiya Goyou",
+        "url": "https://myanimelist.net/anime/7588/Saraiya_Goyou",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/4/75203.webp?s=d35368e6dddce99905819d41bb1ba815"
+      },
+      "recommendedAnime": {
+        "title": "Shouwa Genroku Rakugo Shinjuu",
+        "url": "https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1354/124768.webp?s=76088dbcb5882e564440c92bbcdb320f"
+      },
+      "reason": "Both are historical dramas with a subdued, atmospheric tone. They focus on character depth over action, exploring themes of belonging, art, and the underworld with a mature and melancholic aesthetic.",
+      "author": {
+        "username": "Shiota",
+        "date": "Today, 2:39 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Serial Experiments Lain",
+        "url": "https://myanimelist.net/anime/339/Serial_Experiments_Lain",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1718/91550.webp?s=388e78e432e9d878a3abfdd5a2a6f141"
+      },
+      "recommendedAnime": {
+        "title": "Haibane Renmei",
+        "url": "https://myanimelist.net/anime/387/Haibane_Renmei",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/9/13134.webp?s=c50838e6771819455744b74741e262f9"
+      },
+      "reason": "Both are slow-burn, atmospheric, and philosophical. They create a pervasive sense of mystery and melancholy, focusing on themes of identity, existence, and soul-searching.",
+      "author": {
+        "username": "Shiota",
+        "date": "Today, 2:32 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "NHK ni Youkoso!",
+        "url": "https://myanimelist.net/anime/1210/NHK_ni_Youkoso",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/3/52675.webp?s=03d16ed8e43e6c906c5f1c68c2d4366f"
+      },
+      "recommendedAnime": {
+        "title": "Yojouhan Shinwa Taikei",
+        "url": "https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1633/123689.webp?s=570fd45511cebcdf8cd286f6a3af43fb"
+      },
+      "reason": "If you enjoyed the psychological spiral of Welcome to the N.H.K., you'll love The Tatami Galaxy. Both follow a disillusioned university student trapped in a cycle of his own making, blending surreal comedy with a profound search for meaning.",
+      "author": {
+        "username": "Shiota",
+        "date": "Today, 2:17 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Fairy Tail",
+        "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/5/18179.webp?s=5fc65e46174d1610e021807721030dd5"
+      },
+      "recommendedAnime": {
+        "title": "Fairy Tail (2014)",
+        "url": "https://myanimelist.net/anime/22043/Fairy_Tail_2014",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/3/60551.webp?s=f74fd13ede0fe380f6025614e6e710a6"
+      },
+      "reason": "Fairy Tail is one of those anime that truly captures the spirit of adventure and the power of friendship. Set in a world full of magic, it follows the story of Natsu Dragneel, a fire dragon slayer wizard, and his guildmates as they take on dangerous missions, face powerful enemies, and grow together like a real family.\n\nWhat makes Fairy Tail so special isn’t just the intense battles or creative magic — it’s the emotions. The bonds between the characters feel genuine, the humor keeps things light, and the soundtrack adds pure energy to every scene. You’ll laugh, cry, and get chills all in the same episode.\n\nOnce you start Fairy Tail, you’re no longer just a spectator — you become part of the guild. You feel every victory, every loss, every tear, and every smile as if they were your own. That’s the true magic of this anime.\n\nIf you love stories about teamwork, loyalty, and overcoming impossible odds, Fairy Tail is a must-watch. It’s not just an anime — it’s an experience that reminds you what it means to never give up and always fight for your friends.",
+      "author": {
+        "username": "THEREEED",
+        "date": "Today, 1:41 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Kamikaze Kaitou Jeanne",
+        "url": "https://myanimelist.net/anime/142/Kamikaze_Kaitou_Jeanne",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/5/20389.webp?s=0d50fca20fc9316d6afc390664406d30"
+      },
+      "recommendedAnime": {
+        "title": "Cat's♥Eye",
+        "url": "https://myanimelist.net/anime/60347/Cats♥Eye",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1347/151708.webp?s=3845d2c40045bfdbfb31c2612eeedca0"
+      },
+      "reason": "Both steal (famous) paintings and therefore consist of thiefs",
+      "author": {
+        "username": "Shy",
+        "date": "Today, 1:18 AM"
+      }
+    },
+    {
+      "sourceAnime": {
+        "title": "Tasogare Otome x Amnesia",
+        "url": "https://myanimelist.net/anime/12445/Tasogare_Otome_x_Amnesia",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/12/64435.webp?s=ac7d1a15fa5939bb9f852214c027c439"
+      },
+      "recommendedAnime": {
+        "title": "Kaii to Otome to Kamikakushi",
+        "url": "https://myanimelist.net/anime/54199/Kaii_to_Otome_to_Kamikakushi",
+        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1670/141688.webp?s=6dcf7e0ab7eb0497f09e47d7874c43c2"
+      },
+      "reason": "Both shows are about the occult where one character is a relatively normal human and the other is a more supernatural being.",
+      "author": {
+        "username": "Thanatos1",
+        "date": "Yesterday, 11:41 PM"
+      }
+    },
+    {
+      "sourceAnime": {
         "title": "Paripi Koumei",
         "url": "https://myanimelist.net/anime/50380/Paripi_Koumei",
         "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1970/122297.webp?s=a3019aed944a2a0d8a1807acf7e7576f"
@@ -14,7 +184,7 @@
       "reason": "a talented girl enters a sport that is harsh but gets mentored by a genius",
       "author": {
         "username": "Charleeiza",
-        "date": "2 hours ago"
+        "date": "Yesterday, 7:02 PM"
       }
     },
     {
@@ -31,7 +201,7 @@
       "reason": "Similar vibes with the mysterious reincarnation into a side character from a historical story. Both of them try changing the fates of their characters and rewriting the story. Expect simpler and more lighthearted scenes in The dark history of reincarnated villainess.",
       "author": {
         "username": "maiasa",
-        "date": "6 hours ago"
+        "date": "Yesterday, 2:28 PM"
       }
     },
     {
@@ -48,7 +218,7 @@
       "reason": "Both series have their characters struggle with their humanity & something inside them (Hikaru & Kaneki), & Tokyo Ghoul was one of the inspirations of the summer Hikaru died.",
       "author": {
         "username": "JoshBoy",
-        "date": "8 hours ago"
+        "date": "Yesterday, 12:38 PM"
       }
     },
     {
@@ -65,7 +235,7 @@
       "reason": "The sheer, unapologetic chaos and rule-of-cool action of Kill la Kill is genetically linked to Gurren Lagann. Both are explosive mecha-adjacent romps from the same studio, where the power of belief and hot-blooded shouting can literally drill through the fabric of reality.",
       "author": {
         "username": "Shiota",
-        "date": "11 hours ago"
+        "date": "Yesterday, 10:05 AM"
       }
     },
     {
@@ -82,7 +252,7 @@
       "reason": "Both revolve around music and writing songs for loved ones, and they are very similar, with the difference that one is boys' love and the other is girls' love.",
       "author": {
         "username": "ryeime",
-        "date": "Today, 7:10 AM"
+        "date": "Yesterday, 7:10 AM"
       }
     },
     {
@@ -99,7 +269,7 @@
       "reason": "Both OVAs feature a ghost of a long-forgotten childhood friend hiding in a furniture drawer and waiting to be noticed & released as a main plot point.",
       "author": {
         "username": "zhabnica",
-        "date": "Today, 6:55 AM"
+        "date": "Yesterday, 6:55 AM"
       }
     },
     {
@@ -116,7 +286,7 @@
       "reason": "Both stories revolve around solving mysteries in the beginning. Undead Girl Murder Farce is more about cases involving supernatural creatures from various folklores, basically Criminal Minds with less corporate politics and more supernatural elements. The female protagonist is a stoic and highly intelligent character in both.",
       "author": {
         "username": "nanamikentosgf",
-        "date": "Today, 6:54 AM"
+        "date": "Yesterday, 6:54 AM"
       }
     },
     {
@@ -133,7 +303,7 @@
       "reason": "This two anime is so similar due to the \"horror\" title and due to their thriller scenes. Both can be cute in some scenes and both can be so scary like they're totally different animes. This is all I can say.",
       "author": {
         "username": "bem_bir_ilke3",
-        "date": "Today, 5:14 AM"
+        "date": "Yesterday, 5:14 AM"
       }
     },
     {
@@ -150,7 +320,7 @@
       "reason": "Both of them are anime about Girl Bands, while MyGO can be more dramatic, both of them offer an enjoyable experience",
       "author": {
         "username": "Jer982",
-        "date": "Today, 5:02 AM"
+        "date": "Yesterday, 5:02 AM"
       }
     },
     {
@@ -167,7 +337,7 @@
       "reason": "Overpower character",
       "author": {
         "username": "lynx_senpai",
-        "date": "Today, 4:46 AM"
+        "date": "Yesterday, 4:46 AM"
       }
     },
     {
@@ -184,7 +354,7 @@
       "reason": "If you're looking for another anime with a non-linear narrative, where the plot is a puzzle you have to disentangle along the way, then this is for you!! :D",
       "author": {
         "username": "aleatorio",
-        "date": "Today, 4:42 AM"
+        "date": "Yesterday, 4:42 AM"
       }
     },
     {
@@ -201,7 +371,7 @@
       "reason": "Vampires and humans that have complex conflicts with each other, questioning morality and values on life of both species. Also explores human and vampire characters becoming good friends. Basically Tokyo ghoul but it’s Victorian era and it’s vamps and humans instead of humans and ghouls. Also a bit for twinkified lol",
       "author": {
         "username": "amanlikeamtesh",
-        "date": "Today, 4:12 AM"
+        "date": "Yesterday, 4:12 AM"
       }
     },
     {
@@ -218,7 +388,7 @@
       "reason": "Bananyas: The Eclipse Peel\n\nThe moon was red over the Banana Bowl.\nGutsnyan stood alone, his fur matted with smoothie stains, clutching his tiny sword — the Dragonsplitter — a blade forged from the peel of a thousand bananas.\n\nOnce, he’d been part of the Bunch of the Hawk, led by the radiant Griffithnyan — a flawless, golden Bananya who dreamed of building a banana kingdom where no cat would ever go hungry.\n\nBut dreams rot fast.\n\nThe sky darkened.\nThe air smelled of overripe fruit.\nA strange sigil appeared on their banana peels — the Brand of the Peel.\n\n“Gutsnyan…,” Griffithnyan purred softly, his peel gleaming. “To peel is to ascend.”\n\nSuddenly, from the shadows, monstrous Apostbananas emerged — twisted fruits with cat faces and claws dripping with syrup. One peeled itself inside out and screeched. Another swallowed the tiny Bananyas whole, seeds scattering like blood.\n\n“Griffithnyan… why?” Gutsnyan hissed, tears dripping onto his peel.\n“For my dream,” Griffithnyan meowed, floating above the chaos, now crowned the Femtofruit. “A world ripe for me alone.”\n\nGutsnyan swung the Dragonsplitter, slicing through the monstrous fruit, crying out, “No dream is worth this smoothie!”\n\nWhen it was over, the once-bright Banana Bowl lay silent.\nOnly Gutsnyan and Cascananya remained, scarred but unpeeled.\nHe lifted his sword and looked to the horizon.\n\n“For every rotten peel... I’ll make a smoothie of revenge.”\n\nAnd so, Gutsnyan walked on — a lone cat-banana against a world gone mushy.",
       "author": {
         "username": "FAKEBLUE",
-        "date": "Today, 12:04 AM"
+        "date": "Yesterday, 12:04 AM"
       }
     },
     {
@@ -235,7 +405,7 @@
       "reason": "The comparison largely stems from the series' shared initial premise: children raised in a seemingly idyllic, secluded facility discover a dark and sinister secret about their existence",
       "author": {
         "username": "Leo-Senpaii",
-        "date": "Yesterday, 10:41 PM"
+        "date": "Oct 25, 2025"
       }
     },
     {
@@ -252,7 +422,7 @@
       "reason": "Another visual novel by Key. \n\nSummer Pockets is an anime where you enjoy the character's interaction with the environment just like in Clannad's first season.\n\nBoth of them giving us nice, touching back stories for each main characters and finishing the final story with a beautiful, emotional ending. So basically, Summer Pockets would give you the similar vibes if you liked Clannad.",
       "author": {
         "username": "FlyingHorseTR",
-        "date": "Yesterday, 2:06 PM"
+        "date": "Oct 25, 2025"
       }
     },
     {
@@ -269,7 +439,7 @@
       "reason": "Beyond being delinquent comedies borh have a similar art style and sense of humor, Gokusen is a little more out there though if I remember correctly. If you like one you'll probably like the other.",
       "author": {
         "username": "ValerieX2",
-        "date": "Yesterday, 9:47 AM"
+        "date": "Oct 25, 2025"
       }
     },
     {
@@ -286,7 +456,7 @@
       "reason": "Similar premise.. Thriller detective stuff and is considered better than death note by some. Is old so quality is bad and is a slow burn",
       "author": {
         "username": "TheRowlett",
-        "date": "Yesterday, 6:20 AM"
+        "date": "Oct 25, 2025"
       }
     },
     {
@@ -303,7 +473,7 @@
       "reason": "A Good Story Line With Heart Touching Emotions If you Complete It You Will Not Regret It.",
       "author": {
         "username": "Triton-IAU",
-        "date": "Yesterday, 1:21 AM"
+        "date": "Oct 25, 2025"
       }
     },
     {
@@ -320,7 +490,7 @@
       "reason": "High stakes games that keep you on the edge of your seat. Unique depictions of characters pushed to their mental limits",
       "author": {
         "username": "actuallyiris",
-        "date": "Yesterday, 12:11 AM"
+        "date": "Oct 25, 2025"
       }
     },
     {
@@ -337,7 +507,7 @@
       "reason": "Strong character development, fantasy, strong-willed female MCs and.. romance!",
       "author": {
         "username": "actuallyiris",
-        "date": "Yesterday, 12:10 AM"
+        "date": "Oct 25, 2025"
       }
     },
     {
@@ -354,7 +524,7 @@
       "reason": "Both main pairs start off with a cold atmosphere, making the development of their relationship extra satisfying...",
       "author": {
         "username": "actuallyiris",
-        "date": "Yesterday, 12:00 AM"
+        "date": "Oct 25, 2025"
       }
     },
     {
@@ -1528,176 +1698,6 @@
       "author": {
         "username": "OllieMaui",
         "date": "Oct 17, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Overlord",
-        "url": "https://myanimelist.net/anime/29803/Overlord",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1945/136600.webp?s=0c5265fe78e865c430597992aff0942b"
-      },
-      "recommendedAnime": {
-        "title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-        "url": "https://myanimelist.net/anime/60303/Shinjiteita_Nakama-tachi_ni_Dungeon_Okuchi_de_Korosarekaketa_ga_Gift_Mugen_Gacha_de_Level_9999_no_Nakama-tachi_wo_Te_ni_Irete_Moto_Party_Member_to_Sekai_ni_Fukushuu___Zamaa_Shimasu",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1163/151246.webp?s=b0f63012f6008ea431cbb9ad51f76c4f"
-      },
-      "reason": "Both are set in a fantasy world containing diverse races and with a magic system similar to that of an MMORPG video game.\n\nIn both, the main character is extremely powerful, practically invincible, and commands a large army of other characters of all types who live within a large palace that he rules like a king.\n\nThe biggest difference between the two is that one character is trapped inside the world of a game while the other becomes stronger to later seek revenge for what was done to him.\n\nThe biggest similarity is that both are overpowered and will always use all the means they have to achieve their goals.",
-      "author": {
-        "username": "ReMightyRon",
-        "date": "Oct 17, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Natsume Yuujinchou",
-        "url": "https://myanimelist.net/anime/4081/Natsume_Yuujinchou",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1681/108439.webp?s=d7aa38fd511424ecebdd12ce8b02deef"
-      },
-      "recommendedAnime": {
-        "title": "Sousou no Frieren",
-        "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1015/138006.webp?s=a7e9bb2976a01ff4edcdede0e7ad15e8"
-      },
-      "reason": "Their main subject may seem different but if you liked Frieren, I guess this is bc the emotions it gave. If that's the case, you will definitely love Natsume. Pls give it a try.",
-      "author": {
-        "username": "SelisUmay",
-        "date": "Oct 17, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Kusuriya no Hitorigoto",
-        "url": "https://myanimelist.net/anime/54492/Kusuriya_no_Hitorigoto",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1708/138033.webp?s=08ab87b61f54ae08ad1af626f7e09e01"
-      },
-      "recommendedAnime": {
-        "title": "Gekai Elise",
-        "url": "https://myanimelist.net/anime/54632/Gekai_Elise",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1449/140344.webp?s=0e95fa2d3243941ed38cc725d208553c"
-      },
-      "reason": "Femc has medical expertise and romance develops similarly.",
-      "author": {
-        "username": "thysupremefriend",
-        "date": "Oct 17, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
-        "url": "https://myanimelist.net/anime/53379/Uchi_no_Kaisha_no_Chiisai_Senpai_no_Hanashi",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1984/136274.webp?s=967c8e479a8b90c4cd931f4066be2343"
-      },
-      "recommendedAnime": {
-        "title": "Bukiyou na Senpai.",
-        "url": "https://myanimelist.net/anime/60531/Bukiyou_na_Senpai",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1257/152233.webp?s=bf9972288e8aa05be848e41db40db2a0"
-      },
-      "reason": "Both about senpai training someone new.\nBoth a office romance.",
-      "author": {
-        "username": "Moppit",
-        "date": "Oct 16, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Kimi ni Todoke",
-        "url": "https://myanimelist.net/anime/6045/Kimi_ni_Todoke",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1502/124384.webp?s=bda4e5ad419c039ac5a9edbc50d2a617"
-      },
-      "recommendedAnime": {
-        "title": "Skip to Loafer",
-        "url": "https://myanimelist.net/anime/50416/Skip_to_Loafer",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1518/138730.webp?s=abbead0f80fcf6cd0c789a2223d056a4"
-      },
-      "reason": "Both stories are about a girl who's pretty much socially awkward and not used to communicating with people they don't know and how they get to know their classmates and make the cutest friend group ever. The love interest in both series is really gentle and cares very deeply for the FMC. Overall they're both really feel-good animes that give you faith in humanity. I'd say if you like the found family trope and the cozy-everyone-is-so-nice vibes in any of these you'll probably enjoy the other a whole lot.",
-      "author": {
-        "username": "MeiYoko28",
-        "date": "Oct 16, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Shokei Shoujo no Virgin Road",
-        "url": "https://myanimelist.net/anime/47162/Shokei_Shoujo_no_Virgin_Road",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1423/122029.webp?s=c046811b01b8b5bc73b10618f78cdcf2"
-      },
-      "recommendedAnime": {
-        "title": "Watashi wo Tabetai, Hitodenashi",
-        "url": "https://myanimelist.net/anime/60168/Watashi_wo_Tabetai_Hitodenashi",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1191/152368.webp?s=d141c1b47e0c8d8b7a4540882bbcece8"
-      },
-      "reason": "Both series have magical/mystical elements, leaded by female characters with a special relationship and something to accomplish.",
-      "author": {
-        "username": "el_morris",
-        "date": "Oct 16, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Hayate no Gotoku!",
-        "url": "https://myanimelist.net/anime/2026/Hayate_no_Gotoku",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/7/73932.webp?s=65ee57c271201fd084af1dcf7c287250"
-      },
-      "recommendedAnime": {
-        "title": "Kikaijikake no Marie",
-        "url": "https://myanimelist.net/anime/59484/Kikaijikake_no_Marie",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1618/151138.webp?s=09fe0361d1ba4df80c787296c43d129b"
-      },
-      "reason": "Similarities: Both are romantic comedies. Both feature a debt-ridden protagonist who must work as a maid to pay off their debts.\n\nBoth feature a boss with a difficult personality and the opposite sex: Arthur is a boss in Kikaijikake no Marie, and Nagi is a boss in Hayate no Gotoku.\nand little by little may employees and bosses develop feelings for each other.\nBoth has other characters who helps sometimes the protagonists.\n\n\nDifferences: In Hayate no Gotoku, the protagonist (Hayate) is male and works as a butler.\n\nIn Kikaijikake no Marie, the protagonist (Marie) is female and works as a maid, pretending to be a robot.\n\nIf you enjoy light, funny comedies with a touch of romance, you might like this two.",
-      "author": {
-        "username": "PrincesaLuminosa",
-        "date": "Oct 16, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "5-toubun no Hanayome",
-        "url": "https://myanimelist.net/anime/38101/5-toubun_no_Hanayome",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1819/97947.webp?s=ad9cadcb79629e77924cdb5f0a7d88e6"
-      },
-      "recommendedAnime": {
-        "title": "Megami no Café Terrace",
-        "url": "https://myanimelist.net/anime/52973/Megami_no_Café_Terrace",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1963/136050.webp?s=20773a868cc9407c1d0210717055187a"
-      },
-      "reason": "This is another good harem anime, I like the male lead character in this anime, one of the best protagonist in rom-com.",
-      "author": {
-        "username": "MainQND",
-        "date": "Oct 16, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "5-toubun no Hanayome",
-        "url": "https://myanimelist.net/anime/38101/5-toubun_no_Hanayome",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1819/97947.webp?s=ad9cadcb79629e77924cdb5f0a7d88e6"
-      },
-      "recommendedAnime": {
-        "title": "Mikadono Sanshimai wa Angai, Choroi.",
-        "url": "https://myanimelist.net/anime/59207/Mikadono_Sanshimai_wa_Angai_Choroi",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1949/150965.webp?s=ac383619cb866426c182618bb868f497"
-      },
-      "reason": "Just like in QQ the the female lead characters in this show are also sisters. I don't wanna tell you anything, just watch it you will get it.",
-      "author": {
-        "username": "MainQND",
-        "date": "Oct 16, 2025"
-      }
-    },
-    {
-      "sourceAnime": {
-        "title": "Ginga Eiyuu Densetsu",
-        "url": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1976/142016.webp?s=60063b2de2515128e228eac26337cacf"
-      },
-      "recommendedAnime": {
-        "title": "Chi. Chikyuu no Undou ni Tsuite",
-        "url": "https://myanimelist.net/anime/52215/Chi_Chikyuu_no_Undou_ni_Tsuite",
-        "imageUrl": "https://cdn.myanimelist.net/r/100x140/images/anime/1749/145922.webp?s=5723367639d698e5b2544da742964114"
-      },
-      "reason": "Political stories about people fighting for their beliefs",
-      "author": {
-        "username": "Junothree",
-        "date": "Oct 16, 2025"
       }
     }
   ]
